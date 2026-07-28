@@ -6,5 +6,5 @@ Ensino Médio Completo - IFSC Gaspar
 ---
 
 ### 💻 Tecnologias e Ferramentas de Estudo
-* **Linguagens:** Java, C#, HTML5, CSS3
-* **Ferramentas:** Git, GitHub, VS Code, Android Studio, Unity
+* **Linguagens:** Java, C#
+* **Ferramentas:** Git, GitHub, VS Code, Unity
